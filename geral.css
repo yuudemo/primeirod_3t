@@ -1,19 +1,19 @@
 #calculadora {
-    background: rgb(77, 216, 77);
+    background: rgb(97, 43, 168);
     width: 200px;
     padding: 10px;
     text-align: center;
     border-radius: 10px;
-    box-shadow: 5px 5px yellowgreen;
+    box-shadow: 5px 5px rgb(192, 181, 207);
 }
 #calculadora input:focus{
     color:rgb(0, 0, 0);
-    background: rgb(0, 192, 176);
+    background: rgb(146, 112, 226);
 }
 .spMes {
     border-color: black;
     border-width: 1px;
-    background:burlywood;
+    background:rgb(166, 135, 222);
 
     color: rgb(0, 0, 0);
     text-align: start;
@@ -22,33 +22,33 @@
 
 
 #calculadora input {
-    background: rgb(54, 236, 124);
-    color: rgb(0, 0, 0);
+    background: rgb(100, 48, 184);
+    color: rgb(106, 50, 116);
     padding: 5px;
     border-radius: 5px;
 }
 #sptotal {
-    background: rgba(228, 125, 125, 0.767);
-    color: rgb(0, 255, 85);
+    background: rgb(175, 146, 230, 0.767);
+    color: rgb(79, 58, 155);
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #calculadora button {
-    background: rgb(6, 141, 17);
+    background: rgb(134, 58, 184);
     color: rgb(255, 255, 255);
     padding: 5px;
     border-radius: 5px;
     margin-top: 10px;
 }
 #calculadora button:hover{
-    background: rgb(236, 222, 212);
+    background: rgb(189, 173, 204);
     color: rgb(0, 0, 0);
     cursor: pointer;
 }
  h3 {
-     color:brown;
+     color:rgb(205, 173, 212);
  }
  .calcF{
   display: none;
